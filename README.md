@@ -39,7 +39,7 @@ Surface plane
 https://www.debijenkorf.nl/wonen
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+Pagina: home
 <img src="images/Schermafbeelding_home1.png" width="375px" alt="omschrijving van de pagina">
 <img src="images/Schermafbeelding_home2.png" width="375px" alt="omschrijving van de pagina">
 <img src="images/Schermafbeelding_home3.png" width="375px" alt="omschrijving van de pagina">
@@ -47,10 +47,10 @@ hier de naam van de pagina
 <img src="images/Schermafbeelding_home5.png" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/Schermafbeelding_woonruimte1.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/Schermafbeelding_woonruimte2.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/Schermafbeelding_woonruimte3.png" width="375px" alt="omschrijving van de pagina">
+Pagina: woonruimtes 
+<img src="images/Schermafbeelding_woonruimtes1.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding_woonruimtes2.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding_woonruimtes3.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
