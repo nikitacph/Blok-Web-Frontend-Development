@@ -40,17 +40,17 @@ https://www.debijenkorf.nl/wonen
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Pagina: home
-<img src="images/Schermafbeelding_home1.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/Schermafbeelding_home2.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/Schermafbeelding_home3.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/Schermafbeelding_home4.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/Schermafbeelding_home5.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding_home1.png" width="100px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding_home2.png" width="100px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding_home3.png" width="100px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding_home4.png" width="100px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding_home5.png" width="100px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Pagina: woonruimtes 
-<img src="images/Schermafbeelding_woonruimtes1.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/Schermafbeelding_woonruimtes2.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/Schermafbeelding_woonruimtes3.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding_woonruimtes1.png" width="100px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding_woonruimtes2.png" width="100px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding_woonruimtes3.png" width="100px" alt="omschrijving van de pagina">
  
 </details>
 
