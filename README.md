@@ -60,11 +60,11 @@ Pagina: woonruimtes
 
 ## Breakdownschets (week 1)
 
-<details>
+<details open>
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/Home.jpg" width="100px" alt="breakdown van de hele pagina">
+<img src="images/Homepage.jpg" width="100px" alt="breakdown van de hele pagina">
 <img src="images/Wonen.jpg" width="100px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
