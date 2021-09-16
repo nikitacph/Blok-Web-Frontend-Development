@@ -85,8 +85,7 @@ Pagina: woonruimtes
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik heb alle basis html van de homepagina geschreven en ben begonnen aan mijn css. Ik liep er vooral tegenaan dat het responsive maken van mijn website complexer was dan ik dacht.
 
 ### Agenda voor meeting
 samen met je groepje opstellen
