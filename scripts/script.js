@@ -1,21 +1,21 @@
-/*console.log ("Hallo!")
+console.log("Hallo!");
 
-var hamburgerButton = document.getElementsByClassName("hamburgermenu")
-var menuGeopend = document.getElementsByClassName("open")
-var sluitButton = document.getElementsByClassName("sluit")
-var logoBijenkorf = document.getElementsByClassName("logoBijenkorf")
+const hamburgerButton = document.getElementsByClassName("hamburgermenu")[0]
+const menuGeopend = document.getElementsByClassName("open")[0]
+const sluitButton = document.getElementsByClassName("sluit")[0]
+const logoBijenkorf = document.getElementsByClassName("logoBijenkorf")[0]
 
 function openMenu() {
-    hamburgerButton.classList.toggle("open");
+     menuGeopend.classList.add("showMenu");
 }
 
-function sluitMenu() {
-sluitButton.classList.toggle("sluit");
+function closeMenu() {
+     menuGeopend.classList.remove("showMenu");
+    //*console.log("Gelukt")
 }
 
 hamburgerButton.addEventListener("click", openMenu);
 
-sluitButton.addEventListener("click", sluitMenu);
+logoBijenkorf.addEventListener("click", closeMenu);
 
-logoBijenkorf.addEventListener("click", sluitMenu);
-*/
+sluitButton.addEventListener("click", closeMenu);
