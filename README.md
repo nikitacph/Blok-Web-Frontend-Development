@@ -193,8 +193,8 @@ Ik heb mijn code wat netter gemaakt (minder classes, pseudoclasses) en dat was m
 
 ### Screenshot(s)
 
-<img src="images/final_screenshot" width="100px" alt="Final screenshot">
-<img src="images/final_screenshot2" width="100px" alt="Final screenshot">
+<img src="./images/Final_screenshot" width="100px" alt="Final screenshot">
+<img src="./images/Final_screenshot2" width="100px" alt="Final screenshot">
 
 </details>
 
