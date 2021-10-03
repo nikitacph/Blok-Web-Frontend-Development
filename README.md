@@ -70,9 +70,6 @@ Pagina: woonruimtes
 ### dynamisch deel (bijv menu): 
 <img src="images/Hamburgermenu.jpg" width="100px" alt="breakdown van een dynamisch deel">
 
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
 </details>
 
 
@@ -117,26 +114,11 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+Mijn eerste pagina is (zo goed als) af en ik ben nu begonnen met de surface plane. Ook begin ik nu met mijn 2e pagina.
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Ik weet nu hoe ik mijn hamburgermenu kan laten werken
+- Ik moet ervoor zorgen dat mijn pagina tab-baar is
 
 </details>
 
@@ -153,32 +135,16 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
 #### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
+<strong>Central field loss</strong>
+Header/button contrast is te laag
+Tekst contrast te laag
 
 #### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+<strong>Low contrast</strong>
+Border rondom zoekbalk
+Lijntjes onder de links (a)
 
 </details>
-
-
-
 
 
 ## Voortgang 3 (week 4)
@@ -187,7 +153,7 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Mijn paginas zijn nu beiden compleet qua html/css en ik wil nu alleen nog wat extra microinteracties en button states toevoegen
 
 
 ### Agenda voor meeting
@@ -203,10 +169,13 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Html
+- Pseudoclasses
+- Comments toevoegen
+- Href vullen met .wonen
+
+Css
+- Div van de a weghalen
 
 </details>
 
@@ -220,11 +189,12 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik heb mijn code wat netter gemaakt (minder classes, pseudoclasses) en dat was meer werk dan ik had gedacht. Ook heb ik mijn code door de validator gehaald.
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+<img src="images/final_screenshot" width="100px" alt="Final screenshot">
+<img src="images/final_screenshot2" width="100px" alt="Final screenshot">
 
 </details>
 
@@ -235,12 +205,24 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
 
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
+1. Stack overflow 
+https://stackoverflow.com/questions/27853884/media-queries-and-image-swapping/27853917
+https://stackoverflow.com/questions/35180361/css-before-and-after-not-working
+https://stackoverflow.com/questions/50301770/aligning-svgs-using-flex
 
-1. bron 1
-2. bron 2
-3. ...
+2. codeSTACKr
+https://www.youtube.com/watch?v=dIyVTjJAkLw
+
+3. Css-tricks
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+4. W3schools
+https://www.w3schools.com/cssref/pr_border.asp
+https://www.w3schools.com/cssref/pr_pos_z-index.asp
+
+5. Box shadow CSS Generator
+https://html-css-js.com/css/generator/box-shadow/
 
 </details>
