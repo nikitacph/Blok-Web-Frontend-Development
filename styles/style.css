@@ -16,6 +16,7 @@
     --hover:#DADADA;
 }
 
+/*Geldt voor de body*/
 body {
     background-color: var(--background-color);
     font-family:'Helvetica';
@@ -26,11 +27,13 @@ a {
     color:var(--text-color-dark);
 }
 
+/*De standaard styling voor buttons weghalen*/
 button {
     border:none;
     background-color:var(--background-color);
 }
 
+/*Header bovenin*/
 .headerDelivery {
     color:#ffffff;
     background-color:var(--text-color-dark);
@@ -41,6 +44,7 @@ button {
     font-size:.65em;
 }
 
+/*Naigatie*/
 nav ul {
     display:flex;
     flex-direction:row;
@@ -230,6 +234,7 @@ nav svg:nth-of-type(1) {
     display: block;
 }
 
+/*Dit is het hamburbger icon*/
 .hamburger span:before, .hamburger span:after {
     content:"";
     background:var(--text-color-dark);
@@ -249,6 +254,7 @@ nav svg:nth-of-type(1) {
     transform:translateY(.3em);
 }
 
+/*Styling voor de zoekbalk*/
 input {
     display:block;
     background-color:var(--light-grey);
@@ -264,6 +270,7 @@ input {
     margin-right:2em;
 }
 
+/*Eerste section main*/
 .index main section:first-of-type {
     width:100%;
     position:relative;
@@ -318,17 +325,20 @@ input {
     font-weight:500;
 }
 
+/*Wanneer je over de button hovert*/
 .index main section:first-of-type a:first-of-type:hover {
     background-color:var(--hover);
     transition:.3s;
 }
 
+/*Wanneer je over de button klikt*/
 .index main section:first-of-type a:first-of-type:active {
     background-color:var(--medium-grey);
     transition:.3s;
     box-shadow:5px 13px 29px -2px rgba(0,0,0,0.26);
 }
 
+/*Tweede section main*/
 .index main section:nth-of-type(2) h1{
     background-color:var(--background-color);
 }
@@ -342,6 +352,7 @@ input {
     object-fit: cover;
 }
 
+/*Media query voor de background image op .index*/
 @media only screen and (min-width: 800px){
    .image_small{
      display: none;
@@ -352,6 +363,7 @@ input {
    }
 }
 
+/*Hij geeft standaard de image small weer*/
 @media only screen and (max-width: 800px){
    .image_small{
      display: block;
@@ -362,6 +374,7 @@ input {
    }
 }
 
+/*De buttons + tekst*/
 .index main .een_nieuwe_balans_buttons {
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -373,6 +386,7 @@ input {
     margin-right:2em;
 }
 
+/*Button states*/
 .index main .een_nieuwe_balans_buttons div:hover {
     background-color:var(--hover);
     transition:.3s;
@@ -409,6 +423,7 @@ input {
     padding-bottom:1em;
 }
 
+/*Vierde section*/
 .index main section:nth-of-type(4) {
     padding-top:1em;
     padding-bottom:1em;
@@ -436,6 +451,7 @@ input {
     margin-right:1em;
 }
 
+/*Vijfde section*/
 .index main section:nth-of-type(5) {
     margin-top:2em;
     margin-left:2em;
@@ -458,6 +474,7 @@ input {
     width: 2em;
 }
 
+/*Eerste section in de footer*/
 footer section:first-of-type {
     background-color:var(--background-color-beige);
     padding-left:1.5em;
@@ -487,6 +504,7 @@ footer section:first-of-type svg {
     height:2em;
 }
 
+/*Tweede section in de footer*/
 footer section:nth-of-type(2) {
     padding-top:3em;
     background-color:var(--background-color-beige);
@@ -499,6 +517,7 @@ footer section:nth-of-type(2) svg {
     width:2em;
 }
 
+/*Derde section in de footer*/
 footer section:nth-of-type(3) {
     background-color:var(--background-color-beige);
     display:flex;
@@ -510,6 +529,7 @@ footer section:nth-of-type(3) {
     height:3em;
 }
 
+/*Vierde section in de footer*/
 footer section:nth-of-type(4) {
     background-color:var(--background-color-beige);
     display:flex;
@@ -640,6 +660,7 @@ footer section:nth-of-type(4) p{
     font-size:1.25em;
 }
 
+/*Derde section .wonen main, class omdat ik met grid werk*/
 .Categorieen_Wonen_Vrije-tijd {
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -672,6 +693,7 @@ footer section:nth-of-type(4) p{
     transition:.3s;
 }
 
+/*Styling voor de sliders*/
 .slider {
     min-width:12em;
     height:auto;
@@ -686,6 +708,7 @@ footer section:nth-of-type(4) p{
     cursor:pointer;
 }
 
+/*Section 4 .wonen*/
 .wonen main section:nth-of-type(4) {
     padding-left:2em;
     padding-top:4em;
@@ -707,6 +730,7 @@ footer section:nth-of-type(4) p{
     cursor:pointer;
 }
 
+/*Button states*/
 .wonen main section:nth-of-type(4) a:hover{
     color:var(--medium-grey);
     transition:.3s;
@@ -717,6 +741,7 @@ footer section:nth-of-type(4) p{
     transition:.1s;
 }
 
+/*Section 5 .wonen*/
 .wonen main section:nth-of-type(5) {
     padding-left:2em;
     padding-top:2em;
@@ -740,6 +765,7 @@ footer section:nth-of-type(4) p{
     cursor:pointer;
 }
 
+/*Button states*/
 .wonen main section:nth-of-type(5) a:hover{
     color:var(--medium-grey);
     transition:.3s;
@@ -754,7 +780,7 @@ footer section:nth-of-type(4) p{
    width:12em; 
 }
 
-
+/*Section 6 .wonen*/
 .wonen main section:nth-of-type(6) {
     padding-left:2em;
     padding-top:1em;
@@ -769,6 +795,7 @@ footer section:nth-of-type(4) p{
     font-weight:500;
 }
 
+/*Section 7 .wonen*/
 .wonen main section:nth-of-type(7) {
     padding-left:2em;
     padding-top:1em;
@@ -783,6 +810,7 @@ footer section:nth-of-type(4) p{
     font-weight:500;
 }
 
+/*Section 8 .wonen*/
 .wonen main section:nth-of-type(8) {
     padding-top:1em;
     padding-bottom:1em;
@@ -816,6 +844,7 @@ footer section:nth-of-type(4) p{
     margin-bottom:2em;
 }
 
+/*Section 9 .wonen*/
 .wonen main section:nth-of-type(9) p {
     padding-left:0;
     padding-bottom:1em;
