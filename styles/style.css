@@ -220,7 +220,7 @@ nav svg:nth-of-type(1) {
     color:var(--text-color-light);
 }
 
-.hamburger div {
+.hamburger span {
     margin-top:1em;
     content:"";
     background-color:var(--text-color-dark);
@@ -230,7 +230,7 @@ nav svg:nth-of-type(1) {
     display: block;
 }
 
-.hamburger div:before, .hamburger div:after {
+.hamburger span:before, .hamburger span:after {
     content:"";
     background:var(--text-color-dark);
     width:1.8em;
@@ -239,12 +239,12 @@ nav svg:nth-of-type(1) {
     display: block;
 }
 
-.hamburger div:before {
+.hamburger span:before {
     content:"";
     transform:translateY(-.4em);
 }
 
-.hamburger div:after {
+.hamburger span:after {
     content:"";
     transform:translateY(.3em);
 }
